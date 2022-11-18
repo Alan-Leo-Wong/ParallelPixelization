@@ -119,6 +119,10 @@ There are some test results on my laptop, the configuration is as follows:
 
    1. pixel_size=0.05
 
+      ![](https:/github.com/KMushaL/ParallelPixelization/blob/master/READEME.assests/block test1.png)
+   
    2. pixel_size=0.01
+   
+      ![](https:/github.com/KMushaL/ParallelPixelization/blob/master/READEME.assests/block test2.png)
 
 ---

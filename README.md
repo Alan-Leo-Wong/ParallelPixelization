@@ -103,7 +103,7 @@ There are some test results on my laptop, the configuration is as follows:
 
 1. **pThread vs OpenMP** (pixel_size=1)
 
-
+![](https://github.com/KMushaL/ParallelPixelization/blob/master/READEME.assests/pthread%20vs%20openmp.png)
     
 ---
 

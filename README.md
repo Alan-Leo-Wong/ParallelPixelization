@@ -107,8 +107,6 @@ There are some test results on my laptop, the configuration is as follows:
     
 ---
 
----
-
 2. **OpenMP vs CUDA** (pixel_size=0.05)
 
     OpenMP(16 threads): **17715.5s**

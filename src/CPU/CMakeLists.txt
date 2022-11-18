@@ -1,0 +1,2 @@
+add_subdirectory(OpenMP)
+add_subdirectory(pThread)

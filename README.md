@@ -124,17 +124,13 @@ There are some test results on my laptop, the configuration is as follows:
 
 ---
 
-[ParallelPixelization/block test2.png at master · KMushaL/ParallelPixelization (github.com)](https://github.com/KMushaL/ParallelPixelization/blob/master/READEME.assests/block%20test2.png)
-
-[ParallelPixelization/READEME.assests at master · KMushaL/ParallelPixelization (github.com)](https://github.com/KMushaL/ParallelPixelization/tree/master/READEME.assests)
-
 3. **Different size of block on CUDA**
 
    1. pixel_size=0.05
 
-      ![img]()
+      ![](https://github.com/KMushaL/ParallelPixelization/blob/master/READEME.assests/block%20test1.png)
    2. pixel_size=0.01
 
-      ![img]()
+      ![](https://github.com/KMushaL/ParallelPixelization/blob/master/READEME.assests/block%20test2.png)
 
 ---

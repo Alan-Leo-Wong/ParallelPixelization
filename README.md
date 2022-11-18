@@ -16,7 +16,7 @@ This is a project for learning parallel programming, which realizes pixelation o
 
 #### 1. Download from repo
 ```shell
-$ git clone --recursive
+$ git clone --recursive https://github.com/KMushaL/ParallelPixelization.git
 ```
 #### 2. Build
 
